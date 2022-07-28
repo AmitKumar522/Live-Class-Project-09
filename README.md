@@ -9,7 +9,7 @@ By Amit Kumar
 - It helps me to build confidence.
 - Thanks to (HITESH SIR), who gave me this project.
 
-![Live link for the project]()
+[Live link for the project-09](https://live-class-project-09.netlify.app)
 #### Honest time to finish this project;
 - It almost take's one day to understand and build this beautiful landing page.
  ## Screenshots
